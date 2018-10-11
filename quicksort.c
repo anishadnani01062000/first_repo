@@ -1,5 +1,5 @@
 #include<stdio.h>
-#include<conio.h>
+
 int i,n,x,p,r;
 int partition(int [],int,int);
 int quicksort(int[],int,int);
